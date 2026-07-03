@@ -11,7 +11,7 @@ function categories_Eib_Ejes_0(feature, value, size, resolution, labelText,
                               labelFill, placement, bufferColor,
                               bufferWidth)
     }),new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(139,94,237,1.0)', lineDash: null, lineCap: 'round', lineJoin: 'round', width: 5.548}),
+        stroke: new ol.style.Stroke({color: 'rgba(218,224,130,1.0)', lineDash: null, lineCap: 'round', lineJoin: 'round', width: 5.548}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth)
@@ -24,7 +24,7 @@ case '75':
                               labelFill, placement, bufferColor,
                               bufferWidth)
     }),new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(139,202,13,1.0)', lineDash: null, lineCap: 'round', lineJoin: 'round', width: 5.548}),
+        stroke: new ol.style.Stroke({color: 'rgba(203,151,105,1.0)', lineDash: null, lineCap: 'round', lineJoin: 'round', width: 5.548}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth)
@@ -37,7 +37,7 @@ case '76':
                               labelFill, placement, bufferColor,
                               bufferWidth)
     }),new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(16,202,231,1.0)', lineDash: null, lineCap: 'round', lineJoin: 'round', width: 5.548}),
+        stroke: new ol.style.Stroke({color: 'rgba(52,202,180,1.0)', lineDash: null, lineCap: 'round', lineJoin: 'round', width: 5.548}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth)
@@ -50,7 +50,7 @@ case '88':
                               labelFill, placement, bufferColor,
                               bufferWidth)
     }),new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(95,133,239,1.0)', lineDash: null, lineCap: 'round', lineJoin: 'round', width: 5.548}),
+        stroke: new ol.style.Stroke({color: 'rgba(49,234,98,1.0)', lineDash: null, lineCap: 'round', lineJoin: 'round', width: 5.548}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth)
@@ -63,7 +63,7 @@ case '5001':
                               labelFill, placement, bufferColor,
                               bufferWidth)
     }),new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(68,214,146,1.0)', lineDash: null, lineCap: 'round', lineJoin: 'round', width: 5.548}),
+        stroke: new ol.style.Stroke({color: 'rgba(211,74,95,1.0)', lineDash: null, lineCap: 'round', lineJoin: 'round', width: 5.548}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth)
@@ -76,7 +76,7 @@ case '5002':
                               labelFill, placement, bufferColor,
                               bufferWidth)
     }),new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(221,39,237,1.0)', lineDash: null, lineCap: 'round', lineJoin: 'round', width: 5.548}),
+        stroke: new ol.style.Stroke({color: 'rgba(220,82,185,1.0)', lineDash: null, lineCap: 'round', lineJoin: 'round', width: 5.548}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth)
@@ -89,7 +89,7 @@ case '5003':
                               labelFill, placement, bufferColor,
                               bufferWidth)
     }),new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(233,177,22,1.0)', lineDash: null, lineCap: 'round', lineJoin: 'round', width: 5.548}),
+        stroke: new ol.style.Stroke({color: 'rgba(82,76,205,1.0)', lineDash: null, lineCap: 'round', lineJoin: 'round', width: 5.548}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth)
@@ -102,7 +102,7 @@ case '5004':
                               labelFill, placement, bufferColor,
                               bufferWidth)
     }),new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(205,76,138,1.0)', lineDash: null, lineCap: 'round', lineJoin: 'round', width: 5.548}),
+        stroke: new ol.style.Stroke({color: 'rgba(111,200,67,1.0)', lineDash: null, lineCap: 'round', lineJoin: 'round', width: 5.548}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth)
@@ -115,7 +115,7 @@ case '5005':
                               labelFill, placement, bufferColor,
                               bufferWidth)
     }),new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(107,228,98,1.0)', lineDash: null, lineCap: 'round', lineJoin: 'round', width: 5.548}),
+        stroke: new ol.style.Stroke({color: 'rgba(143,15,212,1.0)', lineDash: null, lineCap: 'round', lineJoin: 'round', width: 5.548}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth)
@@ -123,18 +123,17 @@ case '5005':
                     break;
 default:
                     return [ new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(0,0,0,1.0)', lineDash: null, lineCap: 'round', lineJoin: 'round', width: 7.827999999999999}),
+        stroke: new ol.style.Stroke({color: 'rgba(0,0,0,1.0)', lineDash: null, lineCap: 'round', lineJoin: 'round', width: 15.427999999999997}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth)
     }),new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(226,127,113,1.0)', lineDash: null, lineCap: 'round', lineJoin: 'round', width: 5.548}),
+        stroke: new ol.style.Stroke({color: 'rgba(75,161,231,1.0)', lineDash: null, lineCap: 'round', lineJoin: 'round', width: 13.68}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth)
     })];
                     break;}};
-
 
 
 
